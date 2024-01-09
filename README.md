@@ -1,5 +1,5 @@
 # LocationSDK For iOS
-A library that provides iOS with location services such as Search, Geocoding, Routes and ETA
+A framework library that provides iOS with location services such as Search, Geocoding, Routes and ETA
 
 # Services.initSession Method  
 ## Overview The 
