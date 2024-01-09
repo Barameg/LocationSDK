@@ -1,0 +1,11 @@
+framework module locations {
+  umbrella header "locations.h"
+  export *
+
+  module * { export * }
+}
+
+module locations.Swift {
+  header "locations-Swift.h"
+  requires objc
+}
