@@ -1,6 +1,11 @@
 # LocationSDK For iOS
 A framework library that provides iOS with location services such as Search, Geocoding, Routes and ETA
 
+## Credentials
+In order to be able to use the framework you must [create account](https://locationservices.barameg.co/signup), once you log in you will have access to your credentials and usage statistics and you will get 200 USD free credit.
+
+You can also check pricing using [our calculator](https://locationservices.barameg.co).
+
 # Services.initSession Method  
 ## Overview The 
 `Services.initSession` method is a part of the Services module and is used to initialize a session with a remote service. This method sends a request to the service, typically an API, using provided credentials (client ID and client key), and it returns session-related data in a JSON string format. 
